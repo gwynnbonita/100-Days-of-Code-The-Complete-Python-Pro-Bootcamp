@@ -4,7 +4,7 @@
 3. Mathematical Operations in Python
 4. Number Manipulation and F Strings in Python
 
-[Day 2](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%201) | Day 2 - Understanding Data Types and How to Manipulate Strings | [Home](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp)
+[Day 2](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%201) | [Day 2 - Understanding Data Types and How to Manipulate Strings](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%202/Day%202%20-%20Understanding%20Data%20Types%20and%20How%20to%20Manipulate%20Strings.py) | [Home](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp)
 
 ### Interactive Coding Exercise
 - [x] [Exercise 1](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%202/Exercise%201.py) - Data Types
