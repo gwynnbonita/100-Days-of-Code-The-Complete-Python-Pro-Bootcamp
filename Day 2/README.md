@@ -4,13 +4,12 @@
 3. Mathematical Operations in Python
 4. Number Manipulation and F Strings in Python
 
-[Day 1](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%201) | Day 1 - Working with Variables in Python to Manage Data | [Home](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp)
+[Day 2](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%201) | Day 2 - Understanding Data Types and How to Manipulate Strings | [Home](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp)
 
 ### Interactive Coding Exercise
-- [x] [Exercise 1](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%201/Exercise%201%202%20%26%203.py) - Printing
-- [x] [Exercise 2](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%201/Exercise%201%202%20%26%203.py) - Debugging Practice
-- [x] [Exercise 3](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%201/Exercise%201%202%20%26%203.py) - Input Function
-- [x] [Exercise 4](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%201/Exercise%204.py) - Variables
+- [x] [Exercise 1](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%202/Exercise%201.py) - Data Types
+- [x] [Exercise 2](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%202/Exercise%202.py) - BMI Calculator
+- [x] [Exercise 3](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%202/Exercise%203.py) - Life in Weeks
 
 ### Project:
-- [x] [Band Name Generator](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%201/Project.py)
+- [x] [Tip Calculator](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%202/Project.py)
