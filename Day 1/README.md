@@ -4,6 +4,7 @@
 3. The Python Input Function
 4. Python Variables
 5. Variable Naming
+Day 1 | Day 1 - Working with Variables in Python to Manage Data | Home
 
 ### Interactive Coding Exercise
 - [x] [Exercise 1](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%201/Exercise%201%202%20%26%203.py) - Printing
