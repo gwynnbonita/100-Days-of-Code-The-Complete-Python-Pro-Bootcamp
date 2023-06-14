@@ -5,7 +5,7 @@
 4. Python Variables
 5. Variable Naming
 
-[Day 1](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%201) | Day 1 - Working with Variables in Python to Manage Data | [Home](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp)
+[Day 1](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%201) | Notes | [Home](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp)
 
 ### Interactive Coding Exercise
 - [x] [Exercise 1](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%201/Exercise%201%202%20%26%203.py) - Printing
