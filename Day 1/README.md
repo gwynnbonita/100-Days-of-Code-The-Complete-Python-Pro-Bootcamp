@@ -11,5 +11,5 @@
 - [x] [Exercise 3](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%201/Exercise%201%202%20%26%203.py) - Input Function
 - [x] [Exercise 4](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%201/Exercise%204.py) - Variables
 
-### [Project](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%201/Project.py):
-- [x] Band Name Generator
+### Project:
+- [x] [Band Name Generator](https://github.com/gwynnbonita/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%201/Project.py)
